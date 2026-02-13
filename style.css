@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.schedule-intro {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.search-filter {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#categorySearch {
+    padding: 10px;
+    width: 80%;
+    max-width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.talk-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.talk-table th, .talk-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.talk-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.talk-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.talk-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.talk-card {
+    margin-bottom: 15px;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.talk-card h3 {
+    margin-top: 0;
+    color: #0056b3;
+}
+
+.talk-card .speakers, .talk-card .category, .talk-card .duration {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.talk-card .description {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.talk-card .category span {
+    display: inline-block;
+    background-color: #e0e7ff;
+    color: #3f51b5;
+    padding: 3px 8px;
+    border-radius: 3px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 0.8rem;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+/* Specific styles for lunch break */
+.lunch-break {
+    background-color: #ffe0b2 !important; /* Lighter orange */
+    color: #6d4c41; /* Darker brown for text */
+    font-weight: bold;
+    text-align: center;
+}
+
+.lunch-break td {
+    padding: 20px 12px; /* More padding for visual distinction */
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "time": "10:00 AM - 11:00 AM",
+    "title": "Introduction to WebAssembly",
+    "speakers": ["Alice Wonderland"],
+    "category": ["Web Development", "Performance"],
+    "duration": "1 hour",
+    "description": "An introductory session to WebAssembly, exploring its benefits and use cases for high-performance web applications."
+  },
+  {
+    "time": "11:10 AM - 12:10 PM",
+    "title": "Demystifying Microservices with Node.js",
+    "speakers": ["Bob The Builder"],
+    "category": ["Backend", "Node.js", "Architecture"],
+    "duration": "1 hour",
+    "description": "Learn how to design and implement microservices effectively using Node.js, covering best practices and common pitfalls."
+  },
+  {
+    "time": "12:20 PM - 01:20 PM",
+    "title": "State Management in React: A Deep Dive",
+    "speakers": ["Charlie Chaplin", "Diana Prince"],
+    "category": ["Frontend", "React", "State Management"],
+    "duration": "1 hour",
+    "description": "A comprehensive look into various state management patterns and libraries in React, from Context API to Redux and Zustand."
+  },
+  {
+    "time": "01:20 PM - 02:20 PM",
+    "title": "Lunch Break",
+    "speakers": [],
+    "category": [],
+    "duration": "1 hour",
+    "description": "Enjoy a delicious lunch and network with fellow attendees."
+  },
+  {
+    "time": "02:20 PM - 03:20 PM",
+    "title": "Securing Your APIs: A Practical Guide",
+    "speakers": ["Eve Harrington"],
+    "category": ["Security", "API", "Backend"],
+    "duration": "1 hour",
+    "description": "Understand common API security vulnerabilities and learn practical strategies to protect your web services."
+  },
+  {
+    "time": "03:30 PM - 04:30 PM",
+    "title": "Modern CSS Techniques for Responsive Design",
+    "speakers": ["Frankenstein"],
+    "category": ["Frontend", "CSS", "Responsive Design"],
+    "duration": "1 hour",
+    "description": "Explore the latest CSS features and techniques to build stunning and responsive user interfaces for all devices."
+  },
+  {
+    "time": "04:40 PM - 05:40 PM",
+    "title": "Introduction to Quantum Computing for Developers",
+    "speakers": ["Grace Hopper"],
+    "category": ["Emerging Tech", "Quantum Computing"],
+    "duration": "1 hour",
+    "description": "A gentle introduction to the world of quantum computing, tailored for developers looking to understand its basic concepts and potential."
+  }
+]
